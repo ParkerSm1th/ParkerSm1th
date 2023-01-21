@@ -2,7 +2,7 @@
 I'm an 18 year old developer and CS student.
 
 ### 🔭 Current Projects
-Currently I work on WarzoneRanks and Grpiz.io, both were solo projects that I worked on in my free time for fun.
+Currently I work at [Beam](https://beamapp.ai), The next generation of team chat, feel free to ask questions! 
 
 ### 👔 Experience
 I've worked on many large projects such as PalaceInterative, PalaceNetwork, [UpBeatRadio](https://upbeatradio.net), and many more. I've become experienced in PHP, Java, and the MERN stack.
