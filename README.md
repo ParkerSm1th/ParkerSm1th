@@ -1,5 +1,5 @@
 ### Hey, I'm Parker 👋
-I'm an 18 year old developer and CS student.
+I'm an 19 year old developer and CS student.
 
 ### 🔭 Current Projects
 Currently I work at [Beam](https://beamapp.ai), The next generation of team chat, feel free to ask questions! 
