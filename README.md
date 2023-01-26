@@ -13,5 +13,3 @@ To contact me quickly and easily, DM me on Twitter or Discord.
 You can also email me:
 
 General Inquiries: me@parkersmith.io
-
-![Hits](https://hits-app.vercel.app/hits?url=github.com%2Fparkersm1th)
