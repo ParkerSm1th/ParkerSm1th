@@ -1,5 +1,5 @@
 ### Hey, I'm Parker 👋
-I'm an 19 year old developer and CS student.
+I'm an 20 year old developer and CS student.
 
 ### 🔭 Current Projects
 Currently, I work at [Magical](https://getmagical.com), Magical is a productivity app that uses AI to speed up repetitive tasks as you work. No integrations, APIs, or magic wands required!
