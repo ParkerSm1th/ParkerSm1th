@@ -1,15 +1,14 @@
 ### Hey, I'm Parker 👋
-I'm an 20 year old developer and CS student.
+I'm an 20 year old software engineer.
 
 ### 🔭 Current Projects
-Currently, I work at [Magical](https://getmagical.com), Magical is a productivity app that uses AI to speed up repetitive tasks as you work. No integrations, APIs, or magic wands required!
+Currently, I work at [Magical](https://getmagical.com) as a software engineer, Magical is a productivity app that uses AI to speed up repetitive tasks as you work. No integrations, APIs, or magic wands required!
 
 ### 👔 Experience
-I've worked on many large projects such as [Beam](https://beamapp.ai), PalaceInterative, [UpBeatRadio](https://upbeatradio.net), and many more. I've become experienced in Typescript, Next.JS, SQL, PHP, and Java.
+In the past I have worked at [Beam](https://beamapp.ai), Colorado State University as an under-graduate researcher, and on other projects like PalaceInterative, [UpBeatRadio](https://upbeatradio.net), and many more. I've become experienced in Typescript, Next.JS, SQL, PHP, and Java.
 
 ### 📫 Contact
-To contact me quickly and easily, DM me on Twitter or Discord.
+Phone: 408-202-1658
+Email: parkermandfw@gmail.com
 
-You can also email me:
-
-General Inquiries: me@parkersmith.io
+Twitter or Discord (parker.2) also work well.
