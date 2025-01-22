@@ -9,6 +9,7 @@ In the past I have worked at [Beam](https://beamapp.ai), Colorado State Universi
 
 ### 📫 Contact
 Phone: 408-202-1658
+
 Email: parkermandfw@gmail.com
 
 Twitter or Discord (parker.2) also work well.
