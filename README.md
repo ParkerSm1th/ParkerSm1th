@@ -5,7 +5,7 @@ I'm an 20 year old software engineer.
 Currently, I work at [Magical](https://getmagical.com) as a software engineer, Magical is a productivity app that uses AI to speed up repetitive tasks as you work. No integrations, APIs, or magic wands required!
 
 ### 👔 Experience
-In the past I have worked at [Beam](https://beamapp.ai), Colorado State University as an under-graduate researcher, and on other projects like [Just Push](https://justpush.dev), [CodeWrap](https://codewrap.dev), [UpBeatRadio](https://upbeatradio.net), and many more. I've become experienced in Typescript, Next.JS, SQL, PHP, and Java.
+In the past I have worked at [Beam](https://beamapp.ai), Colorado State University as an under-graduate researcher, and on other projects like [Just Push](https://justpush.dev), [CodeWrap](https://codewrap.dev), [MLX Chat](https://github.com/mlx-chat/mlx-chat-app), [UpBeatRadio](https://upbeatradio.net), and many more. I've become experienced in Typescript, Next.JS, SQL, PHP, and Java.
 
 ### 📫 Contact
 Phone: 408-202-1658
